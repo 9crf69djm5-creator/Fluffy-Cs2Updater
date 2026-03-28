@@ -1,16 +1,12 @@
 # 🚀 Fluffy CS2 Updater
 
 ## 📋 Description
-This repository contains the latest builds of Fluffy CS2 cheat with automatic updates. Only essential files (loader and executables) are stored here for easy distribution.
+This repository contains only the essential Fluffy CS2 cheat executables for easy distribution and updates.
 
-## 🎮 What's Included
+## 🎮 What's Included (Only Essential Files)
 - `CS2 External.exe` - Main cheat executable
 - `Fluffy-Launcher.exe` - Secure launcher  
 - `Fluffy-Cs2 Loader.exe` - .NET loader
-- `Legit.dat` - Legit mode configuration
-- `Rage.dat` - Rage mode configuration
-- `fluffy_key.dat` - Authentication key
-- `Images1/` - UI assets and images
 
 ## 🔄 Updates
 This repository is automatically updated when new builds are created. Each update includes:
@@ -19,7 +15,7 @@ This repository is automatically updated when new builds are created. Each updat
 - New features
 
 ## 🚀 Quick Start
-1. Download the latest release
+1. Download the latest release from the Releases tab
 2. Extract to a folder
 3. Run `Fluffy-Launcher.exe` as Administrator
 4. Start CS2
@@ -41,8 +37,8 @@ This repository is automatically updated when new builds are created. Each updat
 Check the Releases tab for the most recent version and changelog.
 
 ## 🔗 Related Projects
-- [Main Project](https://github.com/9crf69djm5-creator/fluffy-cs2-updatev2) - Full source code
+- [Main Project](https://github.com/9crf69djm5-creator/fluffy-cs2-updatev2) - Full source code with all files
 - [CS2 Dumper](https://github.com/a2x/cs2-dumper) - Offset source
 
 ---
-**Auto-updated repository** 🤖
+**Minimal distribution repository - Executables only** 🤖
