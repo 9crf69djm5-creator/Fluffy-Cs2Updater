@@ -1,0 +1,13 @@
+# Ignore everything except essential files
+*
+
+# Allow these files and folders
+!Release/
+!build_and_upload.ps1
+!README.md
+!.gitignore
+
+# Ignore temp files
+*.tmp
+*.temp
+*.log
